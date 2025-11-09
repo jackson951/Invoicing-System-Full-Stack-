@@ -158,31 +158,5 @@ Powered by **Socket.IO** and **Chart.js**:
 - `Subscription`
 - `AITrainingData` (optional)
 
----
 
-## 📁 Folder Structure
 
-```bash
-SaaS-Invoicing/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middlewares/
-│   ├── services/
-│   ├── config/
-│   │   └── database.js
-│   ├── app.js
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── auth/
-│   │   └── App.jsx
-│   └── public/
-├── docs/
-│   └── api-spec.md
-├── README.md
-└── .env.example
